@@ -1,0 +1,26 @@
+{
+	"r3f-UnpopularSkills": {
+		"slug": "r3f-UnpopularSkills",
+		"name": "Unpopular Skills",
+		"github": "https://github.com/WaqarTabish2807/r3f-UnpopularSkills",
+		"live": "https://unpopular-skills.netlify.app/",
+		"poster": "/posters/Loading.jpg",
+		"poster_big": "/posters/Loading-big.jpg"
+	},
+	"UncommonEarthFacts": {
+		"slug": "UncommonEarthFacts",
+		"name": "Uncommon Earth's Facts",
+		"github": "https://github.com/WaqarTabish2807/UncommonEarthFacts",
+		"live": "https://uncommon-earth-facts.netlify.app/",
+		"poster": "/posters/satellite.jpg",
+		"poster_big": "/posters/satellite-big.jpg"
+	},
+	"Tiny-heavenn": {
+		"slug": "Tiny-heavenn",
+		"name": "Tiny Heaven",
+		"github": "https://github.com/WaqarTabish2807/Tiny-heavenn",
+		"live": "https://tiny-heavenn.netlify.app/",
+		"poster": "/posters/tinyheaven.jpg",
+		"poster_big": "/posters/tinyheaven-big.jpg"
+	}
+}
