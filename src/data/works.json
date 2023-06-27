@@ -23,6 +23,14 @@
 		"poster": "/posters/tinyheaven.jpg",
 		"poster_big": "/posters/tinyheaven-big.jpg"
 	},
+	"No-React-Portfolio": {
+		"slug": "No-React-Portfolio",
+		"name": "Portfolio 2022",
+		"github": "https://github.com/WaqarTabish2807/No-React-Portfolio",
+		"live": "https://waqar-folio.netlify.app/",
+		"poster": "/posters/old-portfolio.jpg",
+		"poster_big": "/posters/old-portfolio-big.jpg"
+	},
 	"Noise-globe": {
 		"slug": "Noise-globe",
 		"name": "Noise Globe",
