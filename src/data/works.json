@@ -9,7 +9,7 @@
 	},
 	"UncommonEarthFacts": {
 		"slug": "UncommonEarthFacts",
-		"name": "Uncommon Earth's Facts",
+		"name": "Uncommon Facts",
 		"github": "https://github.com/WaqarTabish2807/UncommonEarthFacts",
 		"live": "https://uncommon-earth-facts.netlify.app/",
 		"poster": "/posters/satellite.jpg",
@@ -22,5 +22,29 @@
 		"live": "https://tiny-heavenn.netlify.app/",
 		"poster": "/posters/tinyheaven.jpg",
 		"poster_big": "/posters/tinyheaven-big.jpg"
+	},
+	"Noise-globe": {
+		"slug": "Noise-globe",
+		"name": "Noise Globe",
+		"github": "https://github.com/WaqarTabish2807/Noise-globe",
+		"live": "https://noise-globe.netlify.app/",
+		"poster": "/posters/noiseglobe.jpg",
+		"poster_big": "/posters/noiseglobe-big.jpg"
+	},
+	"Greek-Icosahedron": {
+		"slug": "Greek-Icosahedron",
+		"name": "Greek Icosahedron",
+		"github": "https://github.com/WaqarTabish2807/Greek-Icosahedron",
+		"live": "https://greek-icosahedron.netlify.app/",
+		"poster": "/posters/icosahedron.jpg",
+		"poster_big": "/posters/icosahedron-big.jpg"
+	},
+	"New-Portfolio": {
+		"slug": "New-Portfolio",
+		"name": "Portfolio 2023",
+		"github": "https://github.com/WaqarTabish2807/New-Portfolio",
+		"live": "https://waqar-folio2.netlify.app/",
+		"poster": "/posters/portfolio.jpg",
+		"poster_big": "/posters/portfolio-big.jpg"
 	}
 }
