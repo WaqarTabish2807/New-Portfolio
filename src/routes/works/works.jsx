@@ -9,7 +9,7 @@ export default function Works() {
 	const frontProject = useProject((state) => state.frontProject)
 
 	useEffect(() => {
-		document.title = "Projets"
+		document.title = "Projects"
 	}, [])
 
 	return (
