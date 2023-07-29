@@ -54,5 +54,13 @@
 		"live": "https://waqar-folio2.netlify.app/",
 		"poster": "/posters/portfolio.jpg",
 		"poster_big": "/posters/portfolio-big.jpg"
+	},
+	"WebD-Mini-Project": {
+		"slug": "WebD-Mini-Project",
+		"name": "33 Mini Projects",
+		"github": "https://github.com/WaqarTabish2807/WebD-Mini-Project",
+		"live": "https://github.com/WaqarTabish2807/WebD-Mini-Project",
+		"poster": "/posters/collage.jpg",
+		"poster_big": "/posters/collage-big.jpg"
 	}
 }
