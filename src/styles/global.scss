@@ -153,9 +153,17 @@ html {
     &__nav {
         display: flex;
         font-weight: 600;
+        gap: 2rem;
 
         @include small {
             display: none;
+        }
+
+        .link + .link {
+            margin: 0;
+            &::before {
+                content: none;
+            }
         }
     }
 }

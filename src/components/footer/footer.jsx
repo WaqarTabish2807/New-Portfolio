@@ -5,7 +5,7 @@ export default function Footer() {
 	return (
 		<footer>
 			<div className="contact">
-				<p>Contact me : waqs2807@gmail.com</p>
+				<p>Contact me : hello@waqar.site</p>
 
 				<div className="contact__link">
 					<Link to="/works">
@@ -13,6 +13,13 @@ export default function Footer() {
 							Works
 						</Text>
 					</Link>
+					<div className="link">
+						<a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+							<Text tag="p" size="s">
+								Resume
+							</Text>
+						</a>
+					</div>
 				</div>
 
 				<ul className="contact__socials">

@@ -8,13 +8,20 @@ export default function Header() {
 				<Link to="/">
 					<Text tag="p">Md Waqar Tabish</Text>
 				</Link>
-				<Text tag="p">Creative developer / Copywriter</Text>
+				<Text tag="p">Creative Developer / GTM Engineer / Technical Writer</Text>
 				<nav className="header__nav">
 					<Link to="/works">
 						<Text tag="p" size="s">
 							Works
 						</Text>
 					</Link>
+					<div className="link">
+						<a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+							<Text tag="p" size="s">
+								Resume
+							</Text>
+						</a>
+					</div>
 				</nav>
 			</header>
 		</>

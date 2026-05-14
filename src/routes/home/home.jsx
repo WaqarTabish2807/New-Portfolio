@@ -44,8 +44,7 @@ export default function Home() {
 					<Cta />
 					<div className="title__content">
 						<p className="title__pitch">
-							I'm Md Waqar Tabish, a creative freelance developer and copywriter who explores tomorrow's
-							solutions.
+							I'm Md Waqar Tabish, a creative freelance developer / GTM engineer and technical writer who explores tomorrow's solutions.
 						</p>
 					</div>
 				</section>
@@ -54,10 +53,7 @@ export default function Home() {
 					<div className="about__content">
 						<Me />
 						<p className="about__description">
-							I am a young developer / copywriter who enjoys improving my
-							skills by creating a multitude of projects that I
-							upload to Github. Over the last two years, I trained
-							on several frameworks and tried different things on my own.
+							I am a young developer / tech writer who enjoys improving my skills by creating a multitude of projects that I upload to Github. Over the last two years, I trained on several frameworks and tried different things on my own.
 						</p>
 					</div>
 				</section>
@@ -65,29 +61,19 @@ export default function Home() {
 					<Text>Experiences</Text>
 					<ul className="experiences__content">
 						<li className="experiences__item">
-							<Text>Technical Writer</Text>
-							<Text>@Tutorialspoint · Freelance</Text>
-							<Text>2022 - Present</Text>
+							<Text>Java Developer cum DevOps Engineer</Text>
+							<Text>@TATA CONSULTANCY SERVICES</Text>
+							<Text>June 2024 - Present</Text>
+						</li>
+						<li className="experiences__item">
+							<Text>GTM Engineer</Text>
+							<Text>@AUTOLOGGIC · Remote</Text>
+							<Text>May 2024 - Present</Text>
 						</li>
 						<li className="experiences__item">
 							<Text>Technical Writer</Text>
-							<Text>@Board Infinity · Freelance</Text>
-							<Text>Feb 2022 - Jul 2022</Text>
-						</li>
-						<li className="experiences__item">
-							<Text>Open Source Developer</Text>
-							<Text>@GSSoC</Text>
-							<Text>June 2023 - Aug 2023</Text>
-						</li>
-						<li className="experiences__item">
-							<Text>Open Source Developer</Text>
-							<Text>@SSoC</Text>
-							<Text>June 2023 - Aug 2023</Text>
-						</li>
-						<li className="experiences__item">
-							<Text>Script Writer</Text>
-							<Text>@Kuku Fm · Freelance</Text>
-							<Text>Jan 2023 - Feb 2023</Text>
+							<Text>@INFRASITY · Freelance</Text>
+							<Text>Feb 2024 - Present</Text>
 						</li>
 					</ul>
 				</section>
@@ -95,14 +81,19 @@ export default function Home() {
 					<Text>Degrees</Text>
 					<ul className="certificates__content">
 						<li className="certificates__item">
-							<Text>Rahmani 30</Text>
-							<Text>High School</Text>
-							<Text>2018-2020</Text>
+							<Text>Jamia Millia Islamia</Text>
+							<Text>B.Tech in ECE (CGPA: 9.49)</Text>
+							<Text>Dec 2020 - July 2024</Text>
 						</li>
 						<li className="certificates__item">
-							<Text>Jamia Millia Islamia</Text>
-							<Text>BTech</Text>
-							<Text>2020 — 2024</Text>
+							<Text>Rahmani 30</Text>
+							<Text>PCM (88.6%)</Text>
+							<Text>Mar 2020</Text>
+						</li>
+						<li className="certificates__item">
+							<Text>Holy Cross School</Text>
+							<Text>High School (92.6%)</Text>
+							<Text>May 2018</Text>
 						</li>
 					</ul>
 				</section>

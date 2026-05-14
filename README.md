@@ -4,7 +4,7 @@
 
 My [portfolio](https://waqar-folio.netlify.app/) definitely needs an update. I’ve leaned a lot since my last website. I want to use React with zustand for the store. I’ll use ThreeJs and framer motion for the animations.
 
-[Live](https://waqar-folio2.netlify.app)
+[Live](https://waqar.site)
 
 ## Licences
 
