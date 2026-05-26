@@ -14,6 +14,13 @@ export default function Footer() {
 						</Text>
 					</Link>
 					<div className="link">
+						<a href="https://www.technicalmap.blog/" target="_blank" rel="noopener noreferrer">
+							<Text tag="p" size="s">
+								Blog
+							</Text>
+						</a>
+					</div>
+					<div className="link">
 						<a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
 							<Text tag="p" size="s">
 								Resume
